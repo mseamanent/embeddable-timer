@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/embeddable-timer/static/css/main.8025a8ac.css",
-    "main.js": "/embeddable-timer/static/js/main.5589943b.js",
+    "main.css": "/embeddable-timer/static/css/main.fc0611f8.css",
+    "main.js": "/embeddable-timer/static/js/main.0754f474.js",
     "static/js/453.1807e996.chunk.js": "/embeddable-timer/static/js/453.1807e996.chunk.js",
     "index.html": "/embeddable-timer/index.html",
-    "main.8025a8ac.css.map": "/embeddable-timer/static/css/main.8025a8ac.css.map",
-    "main.5589943b.js.map": "/embeddable-timer/static/js/main.5589943b.js.map",
+    "main.fc0611f8.css.map": "/embeddable-timer/static/css/main.fc0611f8.css.map",
+    "main.0754f474.js.map": "/embeddable-timer/static/js/main.0754f474.js.map",
     "453.1807e996.chunk.js.map": "/embeddable-timer/static/js/453.1807e996.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8025a8ac.css",
-    "static/js/main.5589943b.js"
+    "static/css/main.fc0611f8.css",
+    "static/js/main.0754f474.js"
   ]
 }
